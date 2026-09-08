@@ -1782,7 +1782,7 @@ width: 540px;
 
     .book1 {
         left: 10px;
-        font-size: 18px;
+    font-size:18px;
     }
 
 
@@ -1926,10 +1926,10 @@ width: 540px;
     .book {
         position: absolute;
 
-        left: 20px;
+     
         bottom: 100px;
 
-        margin: 0;
+      
 
         font-size: 14px;
 
@@ -1943,7 +1943,7 @@ width: 540px;
         left: 100px;
         top: 150px;
 
-        margin: 0;
+    margin-left: 60px;
 
         font-size: 14px;
 
