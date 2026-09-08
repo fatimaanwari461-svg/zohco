@@ -296,8 +296,8 @@ position: absolute;
 bottom:140px ;
 color: #ffffff;
 margin-left: 50px;
-font-size: 35px;
-display: flex;
+font-size: 30px;
+
 }
 
 
@@ -1518,9 +1518,13 @@ video {
 .book {
     position: absolute;
     left: 50px;
-    bottom: 140px;
+    bottom: 200px;
 
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> e9515ba46b6e94d55fa28865dd779955928b7c6d
 
     z-index: 10;
 }
@@ -1530,7 +1534,7 @@ video {
     left: 200px;
     bottom: 10px;
 
-    margin-left: 0;
+
 
     z-index: 10;
 }
@@ -1784,8 +1788,12 @@ width: 540px;
 
     .book1 {
         left: 10px;
+<<<<<<< HEAD
         font-size: 18px;
 
+=======
+    font-size:18px;
+>>>>>>> e9515ba46b6e94d55fa28865dd779955928b7c6d
     }
 
 
@@ -1929,10 +1937,10 @@ width: 540px;
     .book {
         position: absolute;
 
-        left: 20px;
-        bottom: 100px;
+     
+        bottom: 200px;
 
-        margin: 0;
+      
 
         font-size: 14px;
 
@@ -1946,7 +1954,7 @@ width: 540px;
         left: 100px;
         top: 150px;
 
-        margin: 0;
+    margin-left: 60px;
 
         font-size: 14px;
 
@@ -2598,7 +2606,11 @@ gap: 1rem;
 
     .mol1 a {
         line-height: 60px;
+<<<<<<< HEAD
 margin-left: 20px;
+=======
+margin-left:20px;
+>>>>>>> e9515ba46b6e94d55fa28865dd779955928b7c6d
         margin: 20px 0 0 0;
     }
 
