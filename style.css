@@ -293,7 +293,7 @@ margin-left: 50px;
 }
 .book{
 position: absolute;
-bottom:250px ;
+bottom:140px ;
 color: #ffffff;
 margin-left: 50px;
 font-size: 35px;
@@ -1517,9 +1517,9 @@ video {
 .book {
     position: absolute;
     left: 50px;
-    bottom: 250px;
+    bottom: 200px;
 
-    margin-left: 0;
+
 
     z-index: 10;
 }
@@ -1529,7 +1529,7 @@ video {
     left: 200px;
     bottom: 10px;
 
-    margin-left: 0;
+
 
     z-index: 10;
 }
