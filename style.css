@@ -288,23 +288,19 @@ height: 68px;
 display: flex;
 gap: 2rem;
 position: absolute;
-top: 470px;
+top: 450px;
 margin-left: 50px;
 }
 .book{
 position: absolute;
-bottom:140px ;
+bottom:140px;
 color: #ffffff;
 margin-left: 50px;
 font-size: 30px;
 
 }
-
-
-
-
 .book1{
-margin-left: 200px;
+margin-left: 100px;
 bottom: 10px;
     position: absolute;
     color: #ffffff;
@@ -1521,17 +1517,15 @@ video {
     bottom: 200px;
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> e9515ba46b6e94d55fa28865dd779955928b7c6d
+
 
     z-index: 10;
 }
 
 .book1 {
     position: absolute;
-    left: 200px;
+    left: 100px;
     bottom: 10px;
 
 
@@ -1788,12 +1782,12 @@ width: 540px;
 
     .book1 {
         left: 10px;
-<<<<<<< HEAD
+
         font-size: 18px;
 
-=======
+
     font-size:18px;
->>>>>>> e9515ba46b6e94d55fa28865dd779955928b7c6d
+
     }
 
 
@@ -2606,12 +2600,11 @@ gap: 1rem;
 
     .mol1 a {
         line-height: 60px;
-<<<<<<< HEAD
+
 margin-left: 20px;
-=======
+
 margin-left:20px;
->>>>>>> e9515ba46b6e94d55fa28865dd779955928b7c6d
-        margin: 20px 0 0 0;
+
     }
 
 
@@ -2631,7 +2624,7 @@ margin-left:20px;
 @media (max-width: 480px) {
 
 
-    /* NAVBAR */
+
 
     .navbar {
         width: calc(100% - 20px);
