@@ -89,6 +89,7 @@ border-radius: 26px;
 padding: 10px;
 filter: brightness(90%);
 
+
 }
 
 
@@ -295,9 +296,10 @@ margin-left: 50px;
 position: absolute;
 bottom:140px ;
 color: #ffffff;
-margin-left: 50px;
+margin-left: 20px;
 font-size: 35px;
-display: flex;
+margin-top: 100px;
+
 }
 
 
@@ -1426,6 +1428,7 @@ border-radius: 30px;
   display: flex;
  gap: 1rem;
  margin-top: 30px;
+
 }
 .mol1 a{
   color:white;
@@ -1433,7 +1436,7 @@ border-radius: 30px;
 padding: 18px 28px;
 background-color: #0e4545;
 border-radius: 30px;
-
+margin-left: 20px;
 
 
 }
@@ -1519,7 +1522,7 @@ video {
     left: 50px;
     bottom: 140px;
 
-    margin-left: 0;
+
 
     z-index: 10;
 }
@@ -1778,11 +1781,13 @@ width: 540px;
         left: 30px;
         top: 80px;
         font-size: 30px;
+        margin-top: 50px;
     }
 
     .book1 {
         left: 10px;
         font-size: 18px;
+
     }
 
 
@@ -1926,12 +1931,12 @@ width: 540px;
     .book {
         position: absolute;
 
-        left: 20px;
-        bottom: 100px;
+     
+        bottom: 200px;
 
-        margin: 0;
 
-        font-size: 14px;
+
+        font-size: 10px;
 
         z-index: 100;
     }
@@ -1940,14 +1945,13 @@ width: 540px;
     .book1 {
         position: absolute;
 
-        left: 100px;
-        top: 150px;
+        left: 300px;
+        top: 80px;
 
-        margin: 0;
+      margin-left: 60px;
 
-        font-size: 14px;
+     
 
-        z-index: 100;
     }
 
 
@@ -1963,7 +1967,7 @@ width: 540px;
 
     video {
         width: 100%;
-        height: auto;
+        height:600%;
 
         padding: 5px;
 
@@ -2595,7 +2599,7 @@ gap: 1rem;
 
     .mol1 a {
         line-height: 60px;
-
+margin-left: 20px;
         margin: 20px 0 0 0;
     }
 
