@@ -2622,7 +2622,7 @@ margin-left:20px;
     .herosection {
         left: 20px;
         top: 0px;
-        bottom: 100px;
+        bottom: 50px;
         gap: 12px;
     }
 
@@ -2641,7 +2641,7 @@ margin-left:20px;
 
 
     .book1 {
-      
+      left: 20px;
         top: 130px;
 
         font-size: 10px;
