@@ -2621,7 +2621,7 @@ margin-left:20px;
 
     .herosection {
         left: 20px;
-        bottom: 10px;
+        top: 10px;
         gap: 12px;
     }
 
@@ -2650,7 +2650,7 @@ margin-left:20px;
     #btn {
         padding: 9px 13px;
 
-        font-size: 10px;
+        font-size: 13px;
     }
 
 
